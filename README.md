@@ -1,11 +1,15 @@
-JInx = 'Dev'
-is-online? = false
-print(f'Follow {Jinx} on Github')
+> I'm not currently doing anything!
 
 
 
-       OS  :  Kali Linux 
-   Python  :  python 3.9.13
-Languages  :  Python, Java, Js, Batch, C, Lua, HTML/CSS
-  Discord  :  None 
-   Server  :  None
+```python
+Kotaro = 'Dev'
+is_online = False
+print(f'Follow {Kotaro} on Github')
+
+
+  OS        : Ubuntu 20.04.1 LTS  
+  Python    : python 3.9.13  
+  Languages : Python, Java, Js, Batch, C, Lua, HTML/CSS  
+  Discord   : discord.gg/nbi  
+  Server    : None
